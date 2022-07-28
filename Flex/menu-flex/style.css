@@ -42,3 +42,15 @@ main {
   letter-spacing: 3px;
   margin-left: 32px;
 }
+
+.menu-mobile {
+  display: none;
+  cursor: pointer;
+}
+
+.menu-mobile div {
+  width: 32px;
+  height: 2px;
+  background-color: #fff;
+  margin: 8px;
+}
